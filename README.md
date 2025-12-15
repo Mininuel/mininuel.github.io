@@ -76,6 +76,6 @@ optimization, and interpretation of biological systems.
 
 ## Contact
 
-Email: your@email.com  
+Email: emmanuelf870@gmail.com  
 GitHub: https://github.com/Mininuel  
 LinkedIn: https://linkedin.com/in/yourprofile
