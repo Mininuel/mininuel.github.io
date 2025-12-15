@@ -6,6 +6,11 @@ author:
   name: Emmanuel Adegbola
 
 github_username: mininuel
+linkedin_username: Emmanuel Oluwafemi Adegbola 
+X_handle: @defenceministe
 
-markdown: kramdown
 theme: minima
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
